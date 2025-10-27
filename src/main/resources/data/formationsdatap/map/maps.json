@@ -1,0 +1,4594 @@
+{
+  "groups": [
+    {
+      "name": "planks",
+      "entries": [
+        {
+          "block": "minecraft:oak_planks",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_planks",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_planks",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_planks",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_planks",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_planks",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_planks",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_planks",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_planks",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_planks",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_planks",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "plank_stairs",
+      "entries": [
+        {
+          "block": "minecraft:oak_stairs",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_stairs",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_stairs",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_stairs",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_stairs",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_stairs",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_stairs",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_stairs",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_stairs",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_stairs",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_stairs",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "plank_slabs",
+      "entries": [
+        {
+          "block": "minecraft:oak_slab",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_slab",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_slab",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_slab",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_slab",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_slab",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_slab",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_slab",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_slab",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_slab",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_slab",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "logs",
+      "entries": [
+        {
+          "block": "minecraft:oak_log",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_log",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_log",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_log",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_log",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_log",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_log",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_block",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_log",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_stem",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_stem",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "woods",
+      "entries": [
+        {
+          "block": "minecraft:oak_wood",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_wood",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_wood",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_wood",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_wood",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_wood",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_wood",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_block",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_wood",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_hyphae",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_hyphae",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stripped_logs",
+      "entries": [
+        {
+          "block": "minecraft:stripped_oak_log",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_spruce_log",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_mangrove_log",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_birch_log",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_dark_oak_log",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_acacia_log",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_jungle_log",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_bamboo_block",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_cherry_log",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_crimson_stem",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_warped_stem",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stripped_woods",
+      "entries": [
+        {
+          "block": "minecraft:stripped_oak_wood",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_spruce_wood",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_mangrove_wood",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_birch_wood",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_dark_oak_wood",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_acacia_wood",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_jungle_wood",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_bamboo_block",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_cherry_wood",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_crimson_hyphae",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:stripped_warped_hyphae",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "leaves",
+      "entries": [
+        {
+          "block": "minecraft:oak_leaves",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_leaves",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_leaves",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_leaves",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_leaves",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_leaves",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_leaves",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_leaves",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:nether_wart_block",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_wart_block",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "doors",
+      "entries": [
+        {
+          "block": "minecraft:oak_door",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_door",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_door",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_door",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_door",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_door",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_door",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_door",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_door",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_door",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_door",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "trapdoors",
+      "entries": [
+        {
+          "block": "minecraft:oak_trapdoor",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_trapdoor",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_trapdoor",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_trapdoor",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_trapdoor",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_trapdoor",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_trapdoor",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_trapdoor",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_trapdoor",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_trapdoor",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_trapdoor",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "signs",
+      "entries": [
+        {
+          "block": "minecraft:oak_sign",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_sign",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_sign",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_sign",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_sign",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_sign",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_sign",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_sign",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_sign",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_sign",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_sign",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "wall_signs",
+      "entries": [
+        {
+          "block": "minecraft:oak_wall_sign",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_wall_sign",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_wall_sign",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_wall_sign",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_wall_sign",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_wall_sign",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_wall_sign",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_wall_sign",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_wall_sign",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_wall_sign",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_wall_sign",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hanging_signs",
+      "entries": [
+        {
+          "block": "minecraft:oak_hanging_sign",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_hanging_sign",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_hanging_sign",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_hanging_sign",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_hanging_sign",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_hanging_sign",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_hanging_sign",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_hanging_sign",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_hanging_sign",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_hanging_sign",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_hanging_sign",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hanging_wall_signs",
+      "entries": [
+        {
+          "block": "minecraft:oak_wall_hanging_sign",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_wall_hanging_sign",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_wall_hanging_sign",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_wall_hanging_sign",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_wall_hanging_sign",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_wall_hanging_sign",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_wall_hanging_sign",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_wall_hanging_sign",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_wall_hanging_sign",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_wall_hanging_sign",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_wall_hanging_sign",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fences",
+      "entries": [
+        {
+          "block": "minecraft:oak_fence",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_fence",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_fence",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_fence",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_fence",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_fence",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_fence",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_fence",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_fence",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fence",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fence",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fence_gates",
+      "entries": [
+        {
+          "block": "minecraft:oak_fence_gate",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_fence_gate",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_fence_gate",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_fence_gate",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_fence_gate",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_fence_gate",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_fence_gate",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_fence_gate",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_fence_gate",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fence_gate",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fence_gate",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pressure_plates",
+      "entries": [
+        {
+          "block": "minecraft:oak_pressure_plate",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_pressure_plate",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_pressure_plate",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_pressure_plate",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_pressure_plate",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_pressure_plate",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_pressure_plate",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_pressure_plate",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_pressure_plate",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_pressure_plate",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_pressure_plate",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "buttons",
+      "entries": [
+        {
+          "block": "minecraft:oak_button",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_button",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_button",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_button",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_button",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_button",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_button",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_button",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_button",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_button",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_button",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "saplings",
+      "entries": [
+        {
+          "block": "minecraft:oak_sapling",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:wooded_badlands",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:spruce_sapling",
+          "biomes": [
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:mangrove_propagule",
+          "biomes": [
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp"
+          ]
+        },
+        {
+          "block": "minecraft:birch_sapling",
+          "biomes": [
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river"
+          ]
+        },
+        {
+          "block": "minecraft:dark_oak_sapling",
+          "biomes": [
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean"
+          ]
+        },
+        {
+          "block": "minecraft:acacia_sapling",
+          "biomes": [
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:dead_bush",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:jungle_sapling",
+          "biomes": [
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves"
+          ]
+        },
+        {
+          "block": "minecraft:bamboo_sapling",
+          "biomes": [
+            "minecraft:bamboo_jungle"
+          ]
+        },
+        {
+          "block": "minecraft:cherry_sapling",
+          "biomes": [
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest",
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "chiseled_bricks",
+      "entries": [
+        {
+          "block": "minecraft:chiseled_stone_bricks",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:chiseled_sandstone",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:chiseled_red_sandstone",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:chiseled_deepslate",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cracked_bricks",
+      "entries": [
+        {
+          "block": "minecraft:cracked_stone_bricks",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:smooth_sandstone",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:smooth_red_sandstone",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:cracked_deepslate_bricks",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bricks",
+      "entries": [
+        {
+          "block": "minecraft:stone_bricks",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:sandstone",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_sandstone",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:deepslate_bricks",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "brick_stairs",
+      "entries": [
+        {
+          "block": "minecraft:stone_brick_stairs",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:sandstone_stairs",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_sandstone_stairs",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:deepslate_brick_stairs",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "brick_slabs",
+      "entries": [
+        {
+          "block": "minecraft:stone_brick_slab",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:sandstone_slab",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_sandstone_slab",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:deepslate_brick_slab",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "walls",
+      "entries": [
+        {
+          "block": "minecraft:stone_brick_wall",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:sandstone_wall",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_sandstone_wall",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:deepslate_brick_wall",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:smooth_stone",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:cut_sandstone",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:cut_red_sandstone",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:polished_deepslate",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:smooth_stone_slab",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove"
+          ]
+        },
+        {
+          "block": "minecraft:cut_sandstone_slab",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:cut_red_sandstone_slab",
+          "biomes": [
+            "minecraft:wooded_badlands",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:polished_deepslate_slab",
+          "biomes": [
+            "minecraft:deep_dark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "grass_block",
+      "entries": [
+        {
+          "block": "minecraft:grass_block",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:sand",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_sand",
+          "biomes": [
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:basalt",
+          "biomes": [
+            "minecraft:basalt_deltas"
+          ]
+        },
+        {
+          "block": "minecraft:soul_soil",
+          "biomes": [
+            "minecraft:soul_sand_valley"
+          ]
+        },
+        {
+          "block": "minecraft:netherrack",
+          "biomes": [
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_nylium",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_nylium",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        },
+        {
+          "block": "minecraft:end_stone",
+          "biomes": [
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "path",
+      "entries": [
+        {
+          "block": "minecraft:dirt_path",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:desert",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:soul_sand",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest",
+            "minecraft:warped_forest"
+          ]
+        },
+        {
+          "block": "minecraft:end_stone",
+          "biomes": [
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dirt",
+      "entries": [
+        {
+          "block": "minecraft:dirt",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:deep_dark"
+          ]
+        },
+        {
+          "block": "minecraft:sand",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:terracotta",
+          "biomes": [
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:wooded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:basalt",
+          "biomes": [
+            "minecraft:basalt_deltas"
+          ]
+        },
+        {
+          "block": "minecraft:soul_soil",
+          "biomes": [
+            "minecraft:soul_sand_valley"
+          ]
+        },
+        {
+          "block": "minecraft:netherrack",
+          "biomes": [
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest",
+            "minecraft:warped_forest"
+          ]
+        },
+        {
+          "block": "minecraft:end_stone",
+          "biomes": [
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stone",
+      "entries": [
+        {
+          "block": "minecraft:stone",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:deep_dark",
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:terracotta",
+          "biomes": [
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:wooded_badlands"
+          ]
+        },
+        {
+          "block": "minecraft:basalt",
+          "biomes": [
+            "minecraft:basalt_deltas"
+          ]
+        },
+        {
+          "block": "minecraft:netherrack",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest",
+            "minecraft:warped_forest"
+          ]
+        },
+        {
+          "block": "minecraft:end_stone",
+          "biomes": [
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "grass",
+      "entries": [
+        {
+          "block": "minecraft:grass",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "roots",
+      "entries": [
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes",
+            "minecraft:soul_sand_valley"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_roots",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_roots",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tall_grass",
+      "entries": [
+        {
+          "block": "minecraft:grass",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:dead_bush",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes",
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:twisting_vines_plant",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dandelion",
+      "entries": [
+        {
+          "block": "minecraft:dandelion",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "poppy",
+      "entries": [
+        {
+          "block": "minecraft:poppy",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:brown_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "blue_orchid",
+      "entries": [
+        {
+          "block": "minecraft:blue_orchid",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "allium",
+      "entries": [
+        {
+          "block": "minecraft:allium",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "azure_bluet",
+      "entries": [
+        {
+          "block": "minecraft:azure_bluet",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "red_tulip",
+      "entries": [
+        {
+          "block": "minecraft:red_tulip",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "orange_tulip",
+      "entries": [
+        {
+          "block": "minecraft:orange_tulip",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert",
+            "minecraft:crimson_forest",
+            "minecraft:warped_forest"
+          ]
+        },
+        {
+          "block": "minecraft:brown_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "white_tulip",
+      "entries": [
+        {
+          "block": "minecraft:white_tulip",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "pink_tulip",
+      "entries": [
+        {
+          "block": "minecraft:pink_tulip",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "oxeye_daisy",
+      "entries": [
+        {
+          "block": "minecraft:oxeye_daisy",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cornflower",
+      "entries": [
+        {
+          "block": "minecraft:cornflower",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "lily_of_the_valley",
+      "entries": [
+        {
+          "block": "minecraft:lily_of_the_valley",
+          "biomes": [
+            "minecraft:plains",
+            "minecraft:sunflower_plains",
+            "minecraft:forest",
+            "minecraft:flower_forest",
+            "minecraft:windswept_hills",
+            "minecraft:windswept_gravelly_hills",
+            "minecraft:windswept_forest",
+            "minecraft:meadow",
+            "minecraft:beach",
+            "minecraft:stony_shore",
+            "minecraft:dripstone_caves",
+            "minecraft:snowy_plains",
+            "minecraft:ice_spikes",
+            "minecraft:old_growth_pine_taiga",
+            "minecraft:old_growth_spruce_taiga",
+            "minecraft:taiga",
+            "minecraft:snowy_taiga",
+            "minecraft:grove",
+            "minecraft:snowy_slopes",
+            "minecraft:frozen_peaks",
+            "minecraft:jagged_peaks",
+            "minecraft:stony_peaks",
+            "minecraft:frozen_river",
+            "minecraft:snowy_beach",
+            "minecraft:frozen_ocean",
+            "minecraft:deep_frozen_ocean",
+            "minecraft:swamp",
+            "minecraft:mangrove_swamp",
+            "minecraft:birch_forest",
+            "minecraft:old_growth_birch_forest",
+            "minecraft:river",
+            "minecraft:dark_forest",
+            "minecraft:warm_ocean",
+            "minecraft:lukewarm_ocean",
+            "minecraft:deep_lukewarm_ocean",
+            "minecraft:ocean",
+            "minecraft:deep_ocean",
+            "minecraft:cold_ocean",
+            "minecraft:deep_cold_ocean",
+            "minecraft:savanna",
+            "minecraft:savanna_plateau",
+            "minecraft:windswept_savanna",
+            "minecraft:jungle",
+            "minecraft:sparse_jungle",
+            "minecraft:lush_caves",
+            "minecraft:bamboo_jungle",
+            "minecraft:cherry_grove",
+            "minecraft:wooded_badlands",
+            "minecraft:deep_dark",
+            "minecraft:badlands",
+            "minecraft:eroded_badlands",
+            "minecraft:the_end",
+            "minecraft:end_highlands",
+            "minecraft:end_midlands",
+            "minecraft:small_end_islands",
+            "minecraft:end_barrens"
+          ]
+        },
+        {
+          "block": "minecraft:air",
+          "biomes": [
+            "minecraft:desert"
+          ]
+        },
+        {
+          "block": "minecraft:red_mushroom",
+          "biomes": [
+            "minecraft:soul_sand_valley",
+            "minecraft:basalt_deltas",
+            "minecraft:nether_wastes"
+          ]
+        },
+        {
+          "block": "minecraft:crimson_fungus",
+          "biomes": [
+            "minecraft:crimson_forest"
+          ]
+        },
+        {
+          "block": "minecraft:warped_fungus",
+          "biomes": [
+            "minecraft:warped_forest"
+          ]
+        }
+      ]
+    }
+  ]
+}
