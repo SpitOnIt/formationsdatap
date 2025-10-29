@@ -27,10 +27,10 @@ public class ReplacementReloadListener extends SimpleJsonResourceReloadListener 
     private static final Logger LOGGER = LogUtils.getLogger();
 
     // Toggle this before building: true = quiet production, false = verbose dev
-    private static final boolean PRODUCTION_QUIET = true;
+    public static final boolean PRODUCTION_QUIET = true;
 
     private static final ResourceLocation DEFAULT_MODDED_BLOCK_ID =
-            new ResourceLocation("undergarden", "depthrock_diamond_ore");
+            new ResourceLocation("minecraft", "diamond_ore");
 
     public ReplacementReloadListener() {
         super(GSON, "map");

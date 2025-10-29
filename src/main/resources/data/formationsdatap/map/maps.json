@@ -4590,5 +4590,88 @@
         }
       ]
     }
-  ]
+  ],
+  "block_age": {
+    "disintegratable": [
+      "minecraft:stone_bricks",
+      "minecraft:stone_brick_stairs",
+      "minecraft:stone_brick_slab",
+      "minecraft:stone_brick_wall",
+      "minecraft:cracked_stone_bricks",
+      "minecraft:chiseled_stone_bricks",
+      "minecraft:cobblestone",
+      "minecraft:cobblestone_stairs",
+      "minecraft:cobblestone_slab",
+      "minecraft:cobblestone_wall",
+      "minecraft:mossy_stone_bricks",
+      "minecraft:mossy_stone_brick_stairs",
+      "minecraft:mossy_stone_brick_slab",
+      "minecraft:mossy_cobblestone",
+      "minecraft:mossy_cobblestone_stairs",
+      "minecraft:mossy_cobblestone_slab",
+      "minecraft:mossy_cobblestone_wall",
+      "minecraft:sandstone",
+      "minecraft:sandstone_stairs",
+      "minecraft:sandstone_slab",
+      "minecraft:sandstone_wall",
+      "minecraft:cut_sandstone",
+      "minecraft:chiseled_sandstone",
+      "minecraft:red_sandstone",
+      "minecraft:red_sandstone_stairs",
+      "minecraft:red_sandstone_slab",
+      "minecraft:red_sandstone_wall",
+      "minecraft:cut_red_sandstone",
+      "minecraft:chiseled_red_sandstone"
+    ],
+
+    "block_to_stair": [
+      ["minecraft:stone_bricks", "minecraft:stone_brick_stairs"],
+      ["minecraft:cobblestone", "minecraft:cobblestone_stairs"],
+      ["minecraft:sandstone", "minecraft:sandstone_stairs"],
+      ["minecraft:red_sandstone", "minecraft:red_sandstone_stairs"],
+      ["minecraft:deepslate_bricks", "minecraft:deepslate_brick_stairs"]
+    ],
+
+    "stair_to_slab": [
+      ["minecraft:stone_brick_stairs", "minecraft:stone_brick_slab"],
+      ["minecraft:cobblestone_stairs", "minecraft:cobblestone_slab"],
+      ["minecraft:sandstone_stairs", "minecraft:sandstone_slab"],
+      ["minecraft:red_sandstone_stairs", "minecraft:red_sandstone_slab"],
+      ["minecraft:deepslate_brick_stairs", "minecraft:deepslate_brick_slab"]
+    ],
+
+    "block_to_mossiness": {
+      "minecraft:stone_bricks": [
+        "minecraft:mossy_stone_bricks",
+        "minecraft:cracked_stone_bricks"
+      ],
+      "minecraft:stone_brick_stairs": [
+        "minecraft:mossy_stone_brick_stairs"
+      ],
+      "minecraft:stone_brick_slab": [
+        "minecraft:mossy_stone_brick_slab"
+      ],
+      "minecraft:stone_brick_wall": [
+        "minecraft:mossy_stone_brick_wall"
+      ],
+      "minecraft:cobblestone": [
+        "minecraft:mossy_cobblestone"
+      ],
+      "minecraft:cobblestone_stairs": [
+        "minecraft:mossy_cobblestone_stairs"
+      ],
+      "minecraft:cobblestone_slab": [
+        "minecraft:mossy_cobblestone_slab"
+      ],
+      "minecraft:cobblestone_wall": [
+        "minecraft:mossy_cobblestone_wall"
+      ],
+      "minecraft:deepslate_bricks": [
+        "minecraft:cracked_deepslate_bricks"
+      ],
+      "minecraft:polished_blackstone_bricks": [
+        "minecraft:cracked_polished_blackstone_bricks"
+      ]
+    }
+  }
 }
